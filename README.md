@@ -5,5 +5,6 @@
 ##### HTML5
 ##### CSS3 
 ##### REACT
+##### JAVASCRIPT
 
 ## Link of [app](https://gmjon.csb.app/)
