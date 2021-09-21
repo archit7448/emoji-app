@@ -8,7 +8,12 @@ var emojidictionary = {
   "🙄": "Disblief",
   "🤐": "secret",
   "🤗": "hug",
-  "🍕": "pizza"
+  "😮": "wow",
+  "🤨": "Concern",
+  "🤑": "Money",
+  "😜": "Crazy",
+  "😑": "Expressionless",
+  "🤩": "Impressive"
 };
 
 var emojiswehave = Object.keys(emojidictionary);
